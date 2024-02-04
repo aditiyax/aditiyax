@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Core Java**
 
-- 📫 How to reach me **aditya11austin@gamil.com**
+- 📫 How to reach me **adityabb@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
