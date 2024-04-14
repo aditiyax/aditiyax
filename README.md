@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **Dev Ops, Next JS**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
 - 🤝 I’m looking for help with **Java, DSA**
 
-- 💬 Ask me about **Core Java**
+- 💬 Ask me about **Core Java, React JS, Node JS**
 
 - 📫 How to reach me **adityabb@outlook.com**
 
