@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dev Ops, Next JS**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **Java , MERN Stack Projects**
 
 - 🤝 I’m looking for help with **Java, DSA**
 
