@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>   
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Dev Ops, WEB-3, Rust**
